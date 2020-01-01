@@ -13,6 +13,7 @@
 		0AA29E4A23BCBB24005E106D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA29E4823BCBB24005E106D /* Main.storyboard */; };
 		0AA29E4C23BCBB26005E106D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA29E4B23BCBB26005E106D /* Assets.xcassets */; };
 		0AA29E4F23BCBB26005E106D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AA29E4D23BCBB26005E106D /* LaunchScreen.storyboard */; };
+		0AA29E5723BCBB49005E106D /* protected.pcap in Resources */ = {isa = PBXBuildFile; fileRef = 0AA29E5623BCBB49005E106D /* protected.pcap */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0AA29E4B23BCBB26005E106D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0AA29E4E23BCBB26005E106D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0AA29E5023BCBB26005E106D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AA29E5623BCBB49005E106D /* protected.pcap */ = {isa = PBXFileReference; lastKnownFileType = file; name = protected.pcap; path = ../../../protected.pcap; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0AA29E4223BCBB24005E106D /* AppDelegate.swift */,
 				0AA29E4423BCBB24005E106D /* SceneDelegate.swift */,
 				0AA29E4623BCBB24005E106D /* ViewController.swift */,
+				0AA29E5623BCBB49005E106D /* protected.pcap */,
 				0AA29E4823BCBB24005E106D /* Main.storyboard */,
 				0AA29E4B23BCBB26005E106D /* Assets.xcassets */,
 				0AA29E4D23BCBB26005E106D /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				0AA29E4F23BCBB26005E106D /* LaunchScreen.storyboard in Resources */,
 				0AA29E4C23BCBB26005E106D /* Assets.xcassets in Resources */,
+				0AA29E5723BCBB49005E106D /* protected.pcap in Resources */,
 				0AA29E4A23BCBB24005E106D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
